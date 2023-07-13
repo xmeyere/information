@@ -1,4 +1,4 @@
 # Processors
 | Model|CPU|ARM Type|
 | -----|------ | ----------- |
-| NBD80X09S-KL|XM8536D|Arm Cortex A9|
+| NBD8016S-XC|XM8536D|Arm Cortex A9|
